@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/swoft-db-master-7aa69ba69934a9c633524582994b9a778c2d0907/src" isTestSource="false" packagePrefix="Swoft\Db\" />
+      <sourceFolder url="file://$MODULE_DIR$/swoft-db-master-7aa69ba69934a9c633524582994b9a778c2d0907/test" isTestSource="true" packagePrefix="SwoftTest\Db\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
